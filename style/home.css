@@ -25,6 +25,8 @@ div.header-cp header img:hover{
 }
 div.header-cp header h1{
     align-items: center;
+    transition: 20s;
+    cursor: pointer;
 }
 
 main{
