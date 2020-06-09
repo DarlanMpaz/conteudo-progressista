@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Ubuntu:wght@400;700&display=swap');
+
+:root {
+    --primary: #B90000;
+    --secondary: #707070;
+}
+
+* {
+    background-color: #EFEFEF;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+}
+
+h1 {
+    font-size: 18pt;
+    font-family: Ubuntu;
+    font-weight: 300;
+    line-height: 60px;
+}
+
+p {
+    font-size: 12pt;
+    font-weight: 300;
+    color: var(--secondary);
+}
